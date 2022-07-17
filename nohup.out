@@ -1,0 +1,33 @@
+WARN (bpy.rna): source/blender/python/intern/bpy_rna.c:1499 pyrna_enum_to_py: current value '0' matches no enum in 'FileAssetSelectParams', '(null)', 'asset_library'
+WARN (bpy.rna): source/blender/python/intern/bpy_rna.c:1499 pyrna_enum_to_py: current value '0' matches no enum in 'FileAssetSelectParams', '(null)', 'asset_library'
+Read prefs: /home/peter/.config/blender/2.93/config/userpref.blend
+Read blend: /home/peter/POUB/blender/tutoHatchingShader.blend
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Deleted 1 object(s)
+
+Info: Deleted 1 object(s)
+
+WARN (bpy.rna): source/blender/python/intern/bpy_rna.c:1499 pyrna_enum_to_py: current value '0' matches no enum in 'FileAssetSelectParams', '(null)', 'asset_library'
+WARN (bpy.rna): source/blender/python/intern/bpy_rna.c:1499 pyrna_enum_to_py: current value '0' matches no enum in 'FileAssetSelectParams', '(null)', 'asset_library'
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Writing userprefs: '/home/peter/.config/blender/2.93/config/userpref.blend' ok
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
+Info: Saved "tutoHatchingShader.blend"
+
